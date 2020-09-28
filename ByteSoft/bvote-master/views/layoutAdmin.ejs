@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<%- include('./partials/head.ejs') %>
+<body class="hold-transition sidebar-mini layout-fixed">
+<div class="wrapper">
+
+  <%- include('./partials/nav.ejs')%>
+
+  <%- include('./partials/sideBar.ejs') %>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <%- body -%>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  <%- include('./partials/footer.ejs') %>
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<%- include('./partials/jquery.ejs') %>
+</body>
+</html>
