@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Long</h1>
-<h3 align="center">I love technology and coding. Since I was a little kid, I always dreamed about developing software / games and building stunning websites. Now, here I am !A passionate frontend developer from India</h3>
+<h3 align="center">I love technology and coding. Since I was a little kid, I always dreamed about developing software / games and building stunning websites. Now, here I am !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
